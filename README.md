@@ -1,4 +1,4 @@
-RaqspberryPi MCP79410 library
+RaspberryPi MCP79410 library
 
 Company:    Futura Group srl
 			www.Futurashop.it
